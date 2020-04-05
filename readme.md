@@ -26,7 +26,8 @@ This document explores the Ford GoBike's trip data for public containing bike ri
 
 3.The  rental method for bikers  from user type are shared.<br>
 
-
+# System Configuration Required
+Please first extract the  data zip file before running the Jupyter notebook.
 ```python
 
 ```
